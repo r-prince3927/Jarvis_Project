@@ -10,4 +10,11 @@ Usage
 Notes
 
 - Replace API keys in `main.py` for OpenAI/News API
-- If you want the repo pushed to GitHub, tell me the target repo name or remote URL and whether it should be public or private.
+
+Project origin
+
+- Original remote README content: "Jarvis_Project — Just learning how to create a project and analyze how to do future projects."
+
+This file has been merged with remote repository content during initial push.
+# Jarvis_Project
+Just learning how to create a project and analyze how to do future projects .
